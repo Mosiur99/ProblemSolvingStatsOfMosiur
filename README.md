@@ -1,7 +1,7 @@
 # Problem Solving Stats Of Mosiur
 | OJ | User Name | Solve Count |
 | -------- | -------- | -------- |
-| Codeforces   | [mosiur_zaman](https://codeforces.com/profile/mosiur_zaman{:target=”_blank”})   | 1595   |
+| Codeforces   | [mosiur_zaman]{:target=”_blank”}(https://codeforces.com/profile/mosiur_zaman)   | 1595   |
 | CodeChef   | [mosiur_420](https://www.codechef.com/users/mosiur_420)   | 403   |
 | Atcoder   | [L_nai](https://atcoder.jp/users/L_nai)   | 437   |
 | Leetcode   | [mosiur](https://leetcode.com/u/mosiur/)  |  267  |
