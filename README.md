@@ -15,5 +15,5 @@
 | Timus   | [mosiur](https://acm.timus.ru/author.aspx?id=295370)   | 63   |
 | Toph   | [mosiur](https://toph.co/u/mosiur)   | 137   |
 | URI   | [mzzaman0](https://judge.beecrowd.com/en/profile/312516)   | 120   |
-| Total   |    |  3396  |
+| Total   |    |  3833  |
 
