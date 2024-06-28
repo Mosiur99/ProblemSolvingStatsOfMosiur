@@ -3,7 +3,7 @@
 | -------- | -------- | -------- |
 | Codeforces   | [mosiur_zaman](https://codeforces.com/profile/mosiur_zaman)   | 1595   |
 | CodeChef   | [mosiur_420](https://www.codechef.com/users/mosiur_420)   | 403   |
-| Atcoder   | [L_nai](https://atcoder.jp/users/L_nai)   | Cell 6   |
+| Atcoder   | [L_nai](https://atcoder.jp/users/L_nai)   | 437   |
 | Leetcode   | [mosiur](https://leetcode.com/u/mosiur/)  |  267  |
 | LightOJ   | [mosiur](https://lightoj.com/user/mosiur)   | 109   |
 | UVA   | [m_o_s_i_u_r](https://uhunt.onlinejudge.org/id/1029983)   | 235   |
