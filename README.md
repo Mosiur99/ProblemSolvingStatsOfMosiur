@@ -11,7 +11,7 @@
 | HackerEarth   | [mosiur2](https://www.hackerearth.com/@mosiur2)   | 157   |
 | HackerRank   | [l_nai](https://www.hackerrank.com/profile/l_nai)   | 109   |
 | CSES   | [TAKA](https://cses.fi/user/40092)   | 73   |
-| KATTIS   | [mosiu](https://open.kattis.com/users/mosiur)   | 14   |
+| KATTIS   | [mosiur](https://open.kattis.com/users/mosiur)   | 14   |
 | Timus   | [mosiur](https://acm.timus.ru/author.aspx?id=295370)   | 63   |
 | Toph   | [mosiur](https://toph.co/u/mosiur)   | 137   |
 | URI   | [mzzaman0](https://judge.beecrowd.com/en/profile/312516)   | 120   |
